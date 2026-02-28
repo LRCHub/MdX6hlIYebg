@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Teach Me How To Love",
+  "base_artist": "Galdive",
+  "createdAt": "2026-02-28T14:43:05.881023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Teach Me How To Love",
+      "artist": "Galdive",
+      "has_synced": true,
+      "path": "select/01_Teach_Me_How_To_Love_Galdive.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Teach Me How To Love",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/02_Teach_Me_How_To_Love_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Teach Me How To Love",
+      "artist": "Josh Baldwin",
+      "has_synced": false,
+      "path": "select/03_Teach_Me_How_To_Love_Josh_Baldwin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Teach Me How To Love",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/04_Teach_Me_How_To_Love_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Teach Me How To Love",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/05_Teach_Me_How_To_Love_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Teach Me How To Love",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/06_Teach_Me_How_To_Love_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Teach Me How to Love",
+      "artist": "Debby Boone",
+      "has_synced": false,
+      "path": "select/07_Teach_Me_How_to_Love_Debby_Boone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Teach Me How To Love",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/08_Teach_Me_How_To_Love_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Teach Me How To Love",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/09_Teach_Me_How_To_Love_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Teach Me How To Love",
+      "artist": "The Cavemen",
+      "has_synced": true,
+      "path": "select/10_Teach_Me_How_To_Love_The_Cavemen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Teach Me How to Love",
+      "artist": "David Charvet",
+      "has_synced": true,
+      "path": "select/11_Teach_Me_How_to_Love_David_Charvet.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Teach Me How To Love",
+      "artist": "Eduard",
+      "has_synced": true,
+      "path": "select/12_Teach_Me_How_To_Love_Eduard.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Teach Me How To Love You More",
+      "artist": "Taylor Armstrong",
+      "has_synced": false,
+      "path": "select/13_Teach_Me_How_To_Love_You_More_Taylor_Armstrong.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "teach me how to love",
+      "artist": "colombianacallmegringo",
+      "has_synced": true,
+      "path": "select/14_teach_me_how_to_love_colombianacallmegringo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Teach Me How To Love (Official Lyric Video)",
+      "artist": "Galdive",
+      "has_synced": true,
+      "path": "select/15_Teach_Me_How_To_Love_(Official_Lyric_Video)_Galdive.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Galdive - Teach Me How To Love (Official Lyric Video)",
+      "artist": "galdive",
+      "has_synced": true,
+      "path": "select/16_Galdive_-_Teach_Me_How_To_Love_(Official_Lyric_Video)_galdive.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Teach Me How To Love",
+      "artist": "Laraw",
+      "has_synced": false,
+      "path": "select/17_Teach_Me_How_To_Love_Laraw.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Teach Me How To Love",
+      "artist": "Galdive",
+      "has_synced": false,
+      "path": "select/pl_01_Teach_Me_How_To_Love_Galdive.txt"
+    }
+  ]
+}
